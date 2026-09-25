@@ -120,9 +120,23 @@ philosophy: >
 
 ---
 
-### `05 / GITHUB METRICS & CONTRIBUTIONS`
+### `05 / ACTIVITY & CONTRIBUTION GRAPH`
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahimirfanc123/fahimirfanc123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahimirfanc123/fahimirfanc123/output/github-contribution-grid-snake.svg">
+  <img alt="Fahim's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/fahimirfanc123/fahimirfanc123/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br>
+<em>Proof that the terminal never sleeps. Built on bare-metal consistency.</em>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimirfanc123&theme=tokyonight&hide_border=true&background=0D1117&ring=E53935&fire=E53935&currStreakNum=E53935&sideNums=C9D1D9&sideLabels=8B949E" alt="Fahim's GitHub Streak" />
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fahimirfanc123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E53935&icon_color=E53935&text_color=C9D1D9" alt="Fahim's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimirfanc123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E53935&text_color=C9D1D9" alt="Top Languages" />
