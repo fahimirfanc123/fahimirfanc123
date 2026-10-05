@@ -26,7 +26,7 @@ Building storage forensics engines, native desktop applications, and low-level s
 ### 🚀 About Me
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering @ APJ Abdul Kalam Technological University (KTU)
-- 💻 **Focus:** Systems Programming, Storage Forensics, and High-Performance Native Desktop Apps
+- 💻 **Focus:** Systems Programming, Cyber Forensics, and High-Performance Native Desktop Apps
 - 🛠️ **Current Work:** Developing **MINION URE** (File Recovery Engine) and **CTR** (Tauri 2 Workout Suite)
 - ⚡ **Languages:** Rust, C, C++, Java, Python, TypeScript
 
