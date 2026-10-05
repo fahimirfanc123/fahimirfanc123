@@ -101,8 +101,8 @@ Building storage forensics engines, native desktop applications, and low-level s
 <br><br>
 
 <a href="https://github.com/fahimirfanc123">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimirfanc123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimirfanc123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimirfanc123&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimirfanc123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
 
 </div>
